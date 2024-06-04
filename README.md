@@ -34,3 +34,7 @@ The *answers_experiments.tsv* file contains the answers of the developers who pa
 
 The *data_dictionary.pdf* provides the data dictionary for the features collected with the iTrace-Tools from the *01_12_merged_fixation.tsv* file and the questions for each column in the answers_experiments.tsv file.
 
+### Code Snippets
+
+The *code_snippets.xlsx* file contains the data for each code snippet extracted from MLCQ dataset that was analyzed by the developers who participated in the study.
+
